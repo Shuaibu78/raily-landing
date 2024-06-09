@@ -66,4 +66,4 @@ Your application should now be accessible at http://127.0.0.1:8000.
 ## Challenges
 
 -   CSS Design: Matching the exact CSS design required detailed inspection.
--   Deployment: Deploying on Digital Ocean involved setting up the LAMP stack and configuring the environment.
+-   Deployment: couldn't find a free hosting server to deploy my project to as i had to add my card details
